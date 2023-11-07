@@ -18,7 +18,7 @@
 
 #include <unistd.h>
 
-#include "../DelayedFunction.hpp"
+#include "DelayedFunction.hpp"
 
 struct ReaderController {
 public:
